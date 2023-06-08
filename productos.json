@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Nombre del producto",
+        "description": "Descripción del producto",
+        "code": "Código del producto",
+        "price": 9.99,
+        "status": true,
+        "stock": 10,
+        "category": "Categoría del producto",
+        "thumbnails": [
+            "ruta-imagen-1.jpg",
+            "ruta-imagen-2.jpg"
+        ],
+        "id": 1
+    }
+]
